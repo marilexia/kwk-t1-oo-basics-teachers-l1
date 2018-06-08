@@ -8,7 +8,7 @@ class Book
   def title(title)
     @title = title
   end
-  
+
 end
 
 Book.new("And Then There Were None")
